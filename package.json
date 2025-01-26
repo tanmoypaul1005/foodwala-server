@@ -26,7 +26,7 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "random-word-slugs": "^0.1.6",
-    "shortid": "^2.2.16",
+    "shortid": "^2.2.17",
     "slugify": "^1.6.5",
     "sslcommerz": "^1.7.0",
     "sslcommerz-lts": "^1.1.0"
